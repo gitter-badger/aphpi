@@ -1,0 +1,24 @@
+{
+  "name": "acidjazz/aphpi",
+  "type": "library",
+  "description": "Simple PHP class to help create APIs", 
+  "keywords": ["API", "wrapper", "PHP"],
+  "homepage": "https://github.com/acidjazz/aphpi",
+  "license": "MIT",
+  "authors": [{
+    "name": "Kevin Olson",
+    "email": "acidjazz@gmail.com",
+    "role": "Developer"
+  }],
+  "support": {
+    "issues": "https://github.com/acidjazz/aphpi/issues",
+    "irc": "irc://irc.gitter.im/acidjazz/aphpi",
+    "gitter": "https://gitter.im/acidjazz/aphpi"
+  },
+  "autoload": {
+    "psr-4": { "Aphpi\\": "src/Aphpi/" }
+  },
+  "require": {
+    "php": ">=5.4"
+  }
+}
