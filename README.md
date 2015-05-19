@@ -1,5 +1,5 @@
 # aphpi
-Simple PHP class to help create APIs
+Simple PHP class to help create APIs (1.0)
 
 [![Latest Stable Version](https://poser.pugx.org/acidjazz/aphpi/v/stable.svg)](https://packagist.org/packages/acidjazz/aphpi)
 [![Total Downloads](https://poser.pugx.org/acidjazz/aphpi/downloads.svg)](https://packagist.org/packages/acidjazz/aphpi)
